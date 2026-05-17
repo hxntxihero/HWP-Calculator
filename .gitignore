@@ -1,0 +1,30 @@
+# Build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# NuGet
+packages/
+*.nupkg
+
+# Windows App SDK / MSIX
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+*.msixupload
+
+# Rider / VS
+.idea/
+*.DotSettings.user
+
+# OS
+Thumbs.db
+Desktop.ini

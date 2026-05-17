@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HwpCalculator (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "HwpCalculator (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
