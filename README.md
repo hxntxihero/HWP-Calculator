@@ -18,7 +18,7 @@ built with WinUI 3 + Windows App SDK on .NET 8.
 - Windows 10 1809 or later (Windows 11 recommended)
 
 ## building
-open `HwpCalculator.sln` in Visual Studio 2022 with the **Windows application development** workload installed, then hit run.
+not planned yet
 
 ## credits
 built by [@hxntxihero](https://github.com/hxntxihero)
